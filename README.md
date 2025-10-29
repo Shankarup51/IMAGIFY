@@ -44,14 +44,15 @@ Creativity shouldn't require design expertise. Imagify democratizes visual conte
 
 ## 📸 Application Screenshots
 
-*[https://drive.google.com/file/d/18m6Mb44sibkca2JnCFdzBkcsiiZRSwrZ/view?usp=drive_link]*
+### Homepage
+![Homepage](./Homepage.png)
 
-*[https://drive.google.com/file/d/12CqqWRf2ZIW1cPo1WtTl6XSFATNAJDvS/view?usp=sharing]*
+### Image Generation
+![Image Generation](./Generation.png)
 
-*[https://drive.google.com/file/d/12HLaWPOxy2UbEFKxHYcdmaHF1prKdG2O/view?usp=drive_link]*
-
-*[https://drive.google.com/file/d/1OzruReVQY-_azwXrHTjnBevCsoUp1DUZ/view?usp=sharing]*
-
+### User Buy Credit Page
+![Dashboard](./BuyCredit.png)
+```
 
 
 ---
